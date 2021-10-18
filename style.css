@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    background-color:#23ffda
+}
+img{
+    width: 300px;
+}
+h3{
+    font-size:27px;
+}
+h1{
+    font-size:32px;
+    color:blue
+}
+h2{
+    color:rgb(174, 0, 255)
+}
+h4{
+    font-size:26px;
+    color:blueviolet
+}
